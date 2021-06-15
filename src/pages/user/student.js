@@ -9,7 +9,7 @@ function student() {
                     Enroll New Student
                 </div>
                 <input placeholder="Firstname" type="text" />
-                <input placeholder="Lastname" type="number" />
+                <input placeholder="Lastname" type="text" />
             </div>
         </div>
     )
