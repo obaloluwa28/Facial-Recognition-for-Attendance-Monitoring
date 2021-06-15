@@ -8,8 +8,12 @@ function student() {
                 <div className="Enrolltitle">
                     Enroll New Student
                 </div>
-                <input placeholder="Firstname" type="text" />
-                <input placeholder="Lastname" type="text" />
+                <div className="main2">
+                    <input placeholder="Firstname" type="text" />
+                    <input placeholder="Lastname" type="text" />
+                    <input placeholder="Firstname" type="text" />
+                    <input placeholder="Lastname" type="text" />
+                </div>
             </div>
         </div>
     )

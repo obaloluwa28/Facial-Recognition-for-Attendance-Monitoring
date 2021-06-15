@@ -7,7 +7,6 @@
   height: 79%;
   background-color: rgb(235, 230, 230);
   position: fixed;
-  margin-top: 30px;
   box-shadow: 4px 4px 6px rgb(94, 91, 91);
   /* border-radius: 0px 0px 10px 10px; */
   border: 1px solid #888;
@@ -26,4 +25,23 @@
   padding-left: 15px;
   font-size: 17px;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.main2 {
+  width: 85%;
+  height: 85%;
+  border: 1px solid black;
+  margin-top: 46px;
+  margin-left: 40px;
+  padding: 10px;
+}
+
+input[type="text"] {
+  width: 329px;
+  height: 45px;
+  padding-left: 10px;
+  flex-direction: column;
+  margin-bottom: 5px;
+  font-size: 17px;
+  outline: none;
 }
