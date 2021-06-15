@@ -1,0 +1,122 @@
+.mini {
+  width: 100%;
+  height: 70%;
+  background-color: rgb(235, 230, 230);
+  position: fixed;
+  margin-top: 69px;
+  padding: 50px 45px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+.topLayer {
+  margin-top: 21px;
+  width: 100%;
+  height: 8%;
+  background-color: rgba(255, 169, 71, 0.726);
+  position: fixed;
+  display: flex;
+  align-items: center;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+#parag1 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  padding-left: 43px;
+}
+
+.topBox,
+.midBox,
+.botmBox {
+  display: flex;
+  width: 90%;
+}
+
+.myLink1,
+.myLink2,
+.myLink3 {
+  text-decoration: none;
+  margin-right: 80px;
+  margin-bottom: 40px;
+}
+
+.firstBox {
+  width: 120px;
+  height: 100px;
+  background-color: rgba(233, 48, 79, 0.856);
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+.firstBox:hover,
+.secondBox:hover,
+.botfirstBox:hover,
+.botsecondBox:hover,
+.thirdBox:hover,
+.bothirdBox:hover {
+  transform: scale3d(1.03, 1.03, 1.03);
+}
+
+.secondBox {
+  width: 120px;
+  height: 100px;
+  background-color: rgba(45, 207, 24, 0.699);
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+.botfirstBox {
+  width: 120px;
+  height: 100px;
+  background-color: rgb(233, 153, 48);
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+.botsecondBox {
+  width: 120px;
+  height: 100px;
+  background-color: rgba(233, 48, 79, 0.856);
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+.thirdBox {
+  width: 120px;
+  height: 100px;
+  background-color: rgb(233, 153, 48);
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+.bothirdBox {
+  width: 120px;
+  height: 100px;
+  background-color: rgba(45, 207, 24, 0.699);
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px rgb(94, 91, 91);
+}
+
+#courses,
+#number {
+  font-size: 17px;
+}
